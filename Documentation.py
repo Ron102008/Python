@@ -55,4 +55,6 @@ print(f"First name is {first} and last name is {last} -Used .split() method to s
 # DOCUMENTATION FOR INT DATA TYPE (LINE 58-)
 #==================================================================
 
+1:37:11 yt vid resumption
+
 #Resume CS50P 2022 video - Lecture 0 - @ 00:59:35 - Integers and Operations https://youtu.be/JP7ITIXGpHk?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V&t=3575
